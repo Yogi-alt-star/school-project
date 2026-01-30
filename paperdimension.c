@@ -16,7 +16,7 @@ int main()
         else 
         {
             
-            printf("Dimention of A%d is= %d mm x %d mm\n",i,b,l);
+            printf("Dimension of A%d is= %d mm x %d mm\n",i,b,l);
             b=fun(b);
         }
     }
