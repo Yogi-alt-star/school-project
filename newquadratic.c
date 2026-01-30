@@ -14,7 +14,7 @@ int main()
     scanf("%lf",&b);
     printf("Enter the constant\n");
     scanf("%lf",&c);
-    if(b*b>4*a*c)
+    if(b*b<4*a*c)
     {
         printf("\nYour problem is not solved in real codinate axis");
     }
